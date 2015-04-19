@@ -1,10 +1,9 @@
 # -vehicle-automatic-guide
-graduation project
 
 
-系统分成仿真和拟合两个部分：
+系统分成仿真和拟合两个部分： 
 
-仿真部分用matlab 进行直线的模拟。
+仿真部分用matlab 进行直线的模拟。 
 
 1）gragh.m 完成小车轨迹的绘制。
 
